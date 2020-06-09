@@ -5,7 +5,7 @@ const yt = async (query) => {
             params: {
                 part: 'snippet',
                 maxResults: 5,
-                key: "AIzaSyD0CooN4-X_2FqSrD-v0vVLm0Ml4P1xeLg",
+                key: "Enter your api key",
                 q: query
             }
         })
